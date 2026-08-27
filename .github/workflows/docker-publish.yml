@@ -100,4 +100,3 @@ jobs:
           echo "" 
           echo "Commit:" 
           echo "${{ github.sha }}"
-          
