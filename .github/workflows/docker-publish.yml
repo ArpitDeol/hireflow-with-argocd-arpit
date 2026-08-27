@@ -17,7 +17,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_OWNER: ArpitDeol
+  IMAGE_OWNER: arpitdeol
 
 jobs:
   docker:
