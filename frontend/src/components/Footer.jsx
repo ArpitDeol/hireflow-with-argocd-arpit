@@ -90,7 +90,7 @@ function Footer() {
           {/* Company */}
           <div>
             <h3 className="text-sm font-semibold text-slate-950">
-              Company
+              Company-iq-INDIA
             </h3>
 
             <ul className="mt-5 space-y-3 text-sm">
